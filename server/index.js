@@ -23,7 +23,6 @@ app.post(
 );
 
 
-<<<<<<< HEAD
 const clientUrl = process.env.CLIENT_URL || "http://localhost:5173"
 app.use(
     cors({
@@ -32,14 +31,6 @@ app.use(
         methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     })
 )
-=======
-app.use(cors(
-    {origin:"https://examnotesclient.onrender.com",
-        credentials:true,
-        methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"]
-    }
-))
->>>>>>> 7bcae37b6ca79fa0d5a99b68185bc2cea0162083
 
 
 
