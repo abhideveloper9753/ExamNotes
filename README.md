@@ -6,8 +6,8 @@ An AI-powered web application that helps students generate smart exam notes, sum
 
 ## 🚀 Live Demo
 
-🌐 Live Website: https://your-deployed-link.onrender.com  
-💻 GitHub Repository: https://github.com/your-username/ExamNotesAI  
+🌐 Live Website: https://examnotesclient1.onrender.com/  
+💻 GitHub Repository: I  https://github.com/abhideveloper9753/ExamNotes/edit/main/README.md
 
 ---
 
