@@ -221,8 +221,8 @@ Add screenshots inside a folder named `screenshots` and include them like this:
 **Abhi Gautam**  
 Full Stack Developer | MCA Aspirant  
 
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-profile  
+GitHub:  https://github.com/abhideveloper9753/ExamNotes/edit/main/README.md
+LinkedIn: https://www.linkedin.com/in/abhi-gautam-246260257/  
 
 ---
 
